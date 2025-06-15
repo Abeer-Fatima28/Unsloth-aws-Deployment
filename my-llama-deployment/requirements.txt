@@ -1,0 +1,12 @@
+torch==2.7.0
+transformers==4.51.3
+unsloth==2025.4.7
+xformers==0.0.30
+bitsandbytes==0.45.5
+scipy==1.15.2
+peft==0.15.2
+accelerate==1.6.0
+sentencepiece==0.2.0
+cut-cross-entropy==25.1.1
+sagemaker
+flask
